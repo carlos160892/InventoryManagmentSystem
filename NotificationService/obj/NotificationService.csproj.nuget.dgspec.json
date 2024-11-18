@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\NotificationService\\NotificationService.csproj": {}
+    "C:\\Desarrollo\\InventoryManagmentSystem\\NotificationService\\NotificationService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\NotificationService\\NotificationService.csproj": {
+    "C:\\Desarrollo\\InventoryManagmentSystem\\NotificationService\\NotificationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\NotificationService\\NotificationService.csproj",
+        "projectUniqueName": "C:\\Desarrollo\\InventoryManagmentSystem\\NotificationService\\NotificationService.csproj",
         "projectName": "NotificationService",
-        "projectPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\NotificationService\\NotificationService.csproj",
+        "projectPath": "C:\\Desarrollo\\InventoryManagmentSystem\\NotificationService\\NotificationService.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\NotificationService\\obj\\",
+        "outputPath": "C:\\Desarrollo\\InventoryManagmentSystem\\NotificationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"

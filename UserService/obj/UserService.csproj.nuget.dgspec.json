@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\UserService\\UserService.csproj": {}
+    "C:\\Desarrollo\\InventoryManagmentSystem\\UserService\\UserService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\UserService\\UserService.csproj": {
+    "C:\\Desarrollo\\InventoryManagmentSystem\\UserService\\UserService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\UserService\\UserService.csproj",
+        "projectUniqueName": "C:\\Desarrollo\\InventoryManagmentSystem\\UserService\\UserService.csproj",
         "projectName": "UserService",
-        "projectPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\UserService\\UserService.csproj",
+        "projectPath": "C:\\Desarrollo\\InventoryManagmentSystem\\UserService\\UserService.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\UserService\\obj\\",
+        "outputPath": "C:\\Desarrollo\\InventoryManagmentSystem\\UserService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,9 +43,23 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HHVkN4gMMHs=",
+  "dgSpecHash": "t8wF6dhVX2U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\NotificationService\\NotificationService.csproj",
+  "projectFilePath": "C:\\Desarrollo\\InventoryManagmentSystem\\NotificationService\\NotificationService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.10\\microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

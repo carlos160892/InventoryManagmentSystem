@@ -4478,11 +4478,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\ProductService\\ProductService.csproj",
+      "projectUniqueName": "C:\\Desarrollo\\InventoryManagmentSystem\\ProductService\\ProductService.csproj",
       "projectName": "ProductService",
-      "projectPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\ProductService\\ProductService.csproj",
+      "projectPath": "C:\\Desarrollo\\InventoryManagmentSystem\\ProductService\\ProductService.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\ProductService\\obj\\",
+      "outputPath": "C:\\Desarrollo\\InventoryManagmentSystem\\ProductService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"

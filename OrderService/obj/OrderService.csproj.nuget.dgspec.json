@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\OrderService\\OrderService.csproj": {}
+    "C:\\Desarrollo\\InventoryManagmentSystem\\OrderService\\OrderService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\OrderService\\OrderService.csproj": {
+    "C:\\Desarrollo\\InventoryManagmentSystem\\OrderService\\OrderService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\OrderService\\OrderService.csproj",
+        "projectUniqueName": "C:\\Desarrollo\\InventoryManagmentSystem\\OrderService\\OrderService.csproj",
         "projectName": "OrderService",
-        "projectPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\OrderService\\OrderService.csproj",
+        "projectPath": "C:\\Desarrollo\\InventoryManagmentSystem\\OrderService\\OrderService.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlo\\.vscode\\InventoryManagementSystem\\OrderService\\obj\\",
+        "outputPath": "C:\\Desarrollo\\InventoryManagmentSystem\\OrderService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
